@@ -1,0 +1,15 @@
+C:\Users\komkr\source\repos\Week10Assignement\bin\Debug\net6.0\Week10Assignement.exe
+C:\Users\komkr\source\repos\Week10Assignement\bin\Debug\net6.0\Week10Assignement.deps.json
+C:\Users\komkr\source\repos\Week10Assignement\bin\Debug\net6.0\Week10Assignement.runtimeconfig.json
+C:\Users\komkr\source\repos\Week10Assignement\bin\Debug\net6.0\Week10Assignement.dll
+C:\Users\komkr\source\repos\Week10Assignement\bin\Debug\net6.0\ref\Week10Assignement.dll
+C:\Users\komkr\source\repos\Week10Assignement\bin\Debug\net6.0\Week10Assignement.pdb
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.csproj.AssemblyReference.cache
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.AssemblyInfoInputs.cache
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.AssemblyInfo.cs
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.csproj.CoreCompileInputs.cache
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.dll
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\ref\Week10Assignement.dll
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.pdb
+C:\Users\komkr\source\repos\Week10Assignement\obj\Debug\net6.0\Week10Assignement.genruntimeconfig.cache
